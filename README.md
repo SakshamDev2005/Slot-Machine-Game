@@ -28,6 +28,7 @@ Download the slot_machine.py file from the repository.
 Open a terminal or command prompt and navigate to the directory where slot_machine.py is located.
 
 Run the game by executing the following command:
+
+```bash
 python slot_machine.py
 
-pythoot_machine.py
